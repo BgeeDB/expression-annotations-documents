@@ -1,5 +1,5 @@
-# expression-annotations
-Bgee Expression Annotations
+# expression-annotations-documents
+Bgee Expression Annotations Documents
 
 
-This repository contains the guidelines and the rules applied to manual curation and annotation of Bgee expression data. 
+This repository contains the ipynb files and corresponding HTML files used in curation and annotation of Bgee expression data. 
