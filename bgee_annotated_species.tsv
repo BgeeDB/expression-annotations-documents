@@ -47,7 +47,7 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 43179	ictidomys_tridecemlineatus	227	0	227
 1518534	anopheles_coluzzii	224	0	224
 9793	equus_asinus	203	0	203
-7460	apis_mellifera	189	0	189
+7460	apis_mellifera	197	0	197
 52904	scophthalmus_maximus	184	0	184
 13489	dicentrarchus_labrax	174	0	174
 28377	anolis_carolinensis	164	1	165
@@ -59,6 +59,7 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 45264	acropora_millepora	148	0	148
 6687	penaeus_monodon	147	0	147
 9646	ailuropoda_melanoleuca	146	0	146
+30195	bombus_terrestris	144	0	144
 42254	sorex_araneus	144	0	144
 43151	anopheles_darlingi	144	0	144
 7241	drosophila_subobscura	140	0	140
@@ -96,7 +97,7 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 7370	musca_domestica	72	0	72
 45351	nematostella_vectensis	70	0	70
 7291	drosophila_albomicans	70	0	70
-104782	adineta_vaga	69	0	69
+7998	ictalurus_punctatus	69	0	69
 9974	manis_javanica	60	9	69
 56723	labrus_bergylta	68	0	68
 8801	struthio_camelus_australis	68	0	68
@@ -133,8 +134,10 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 156563	cyanistes_caeruleus	40	0	40
 28743	cyprinodon_variegatus	40	0	40
 6941	rhipicephalus_microplus	39	0	39
+442651	hofstenia_miamia	38	0	38
 8154	astatotilapia_calliptera	38	0	38
 9049	pavo_cristatus	37	0	37
+104782	adineta_vaga	36	0	36
 143950	sipha_flava	36	0	36
 6526	biomphalaria_glabrata	36	0	36
 6689	penaeus_vannamei	29	5	34
@@ -151,10 +154,10 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 7918	lepisosteus_oculatus	29	0	29
 6669	daphnia_pulex	27	0	27
 9054	phasianus_colchicus	27	0	27
-30195	bombus_terrestris	26	0	26
 9999	urocitellus_parryii	26	0	26
 48699	poecilia_latipinna	25	0	25
 13146	melopsittacus_undulatus	24	0	24
+141832	pomphorhynchus_laevis	24	0	24
 27406	cherax_quadricarinatus	24	0	24
 28584	drosophila_suzukii	24	0	24
 6565	crassostrea_virginica	24	0	24
@@ -162,7 +165,6 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 8128	oreochromis_niloticus	24	0	24
 10029	cricetulus_griseus_crigri	23	0	23
 10089	mus_caroli	23	0	23
-141832	pomphorhynchus_laevis	23	0	23
 9361	dasypus_novemcinctus	22	0	22
 132113	bombus_impatiens	21	0	21
 165561	microctonus_hyperodae	21	0	21
@@ -194,7 +196,6 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 8824	apteryx_owenii	15	0	15
 9694	panthera_tigris_altaica	10	5	15
 104421	camponotus_floridanus	14	0	14
-442651	hofstenia_miamia	14	0	14
 610380	harpegnathos_saltator	14	0	14
 7574	lingula_anatina	14	0	14
 7897	latimeria_chalumnae	14	0	14
@@ -220,7 +221,6 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 9689	panthera_leo	7	0	7
 121225	pediculus_humanus	6	0	6
 30464	nothoprocta_perdicaria	6	0	6
-7998	ictalurus_punctatus	6	0	6
 88925	lineus_longissimus	6	0	6
 9365	erinaceus_europaeus	6	0	6
 30033	drosophila_kikkawai	5	0	5
@@ -276,3 +276,4 @@ speciesId	species	n_bulk_libraries	n_sc_libraries	n_total_libraries
 586833	myripristis_murdjan	1	0	1
 6850	limulus_polyphemus	1	0	1
 7243	drosophila_teissieri	1	0	1
+7962	Cyprinus carpio carpio	1	0	1
